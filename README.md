@@ -4,6 +4,8 @@
 
 原项目： https://github.com/SleepingBag945/IPSearch
 
+原项目原理：https://www.freebuf.com/articles/sectool/358230.html
+
 可根据关键词反向查询关联IP，收集目标资产。使用AI输入目标系统名称自动化反查IP段。
 
 使用golang编写，纯Go实现支持交叉编译，一次编译到处运行。可以很方便的集成至师傅们的工作流中。
