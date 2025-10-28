@@ -2,6 +2,8 @@
 
 离线IP Whois查询工具，现已支持MCP协议集成。
 
+原项目： https://github.com/SleepingBag945/IPSearch
+
 可根据关键词反向查询关联IP，收集目标资产。使用AI输入目标系统名称自动化反查IP段。
 
 使用golang编写，纯Go实现支持交叉编译，一次编译到处运行。可以很方便的集成至师傅们的工作流中。
