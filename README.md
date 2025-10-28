@@ -106,11 +106,15 @@ GOOS=windows GOARCH=amd64 go build -o IPSearch-windows-amd64.exe
 ### 运行
 
 1. 下载源码编译或者在Release下载适合自己系统的IPSearch
+
 2. 下载IP.zip，解压后把IP.db放在IPSearch同目录下
-3. 作为MCP Server运行：
-   ```bash
-   ./IPSearch
-   ```
+
+3. 在cherrystudio配置对应的MCP服务器
+
+   ![image-20251028154519149](./assets/image-20251028154519149.png)
+
+   
+
 4. 工具将通过标准输入输出与MCP客户端通信
 
 ### MCP工具说明
